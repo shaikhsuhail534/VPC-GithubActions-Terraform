@@ -1,5 +1,6 @@
 Overview
- This GitHub project offers a set of tools and a thorough tutorial for utilizing Terraform to build and manage infrastructure using GitHub Actions to automate the deployment process.
+ 
+This GitHub project offers a set of tools and a thorough tutorial for utilizing Terraform to build and manage infrastructure using GitHub Actions to automate the deployment process.
 
 
  Terraform is an open-source infrastructure as code (IaC) platform that lets you use a declarative configuration language to define and provision infrastructure.
@@ -23,3 +24,4 @@ Overview
 
  Terraform installed on your local computer with a GitHub account.
  access to the required API credentials and an account with a cloud provider (such as AWS, Azure, or Google Cloud).
+
